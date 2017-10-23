@@ -42,11 +42,11 @@
             else{menor=c;}
 
             medio=(a+b+c) - (mayor + menor);
-            System.out.println("el numero decendente es: ");
+            System.out.println("el numero Acendente es: ");
             System.out.println(menor + " "+ medio + " "+ mayor);
 
             medio=(a+b+c) - (menor + mayor);
-            System.out.println("el numero acendente es: ");
+            System.out.println("el numero Decendente es: ");
             System.out.println(mayor + " "+ medio + " "+ menor);
         }
     }
